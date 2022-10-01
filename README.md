@@ -9,8 +9,16 @@ App play
 
 Here are screenshots application 
 ![registration](https://user-images.githubusercontent.com/44860615/193408227-50833bb9-77c9-4e31-bafe-d32cbc836c57.jpeg)
+
+
 ![login](https://user-images.githubusercontent.com/44860615/193408228-ee2605ae-884e-4d66-a34b-e757585af1e8.jpeg)
+
+
 ![google sign in](https://user-images.githubusercontent.com/44860615/193408229-05df6e3d-d0f2-4ffc-a071-7a74bdcd724c.jpeg)
+
+
 ![home](https://user-images.githubusercontent.com/44860615/193408231-6721b5ae-638f-4a42-9d84-52e4d2a4fb6c.jpeg)
+
+
 ![side drawer](https://user-images.githubusercontent.com/44860615/193408241-917b3433-2436-467b-b59f-609a78683021.jpeg)
 
