@@ -1,21 +1,16 @@
-# dukkantek
+# ecommerce
 
-A new Flutter project.
+This project is developed on Flutter and Firebase
 
-## Getting Started
+I have integrated firebase Auth(Signup + Login) and Google Login in this project. In order to test notifications manually from firebase console, login into application. Open the side drawer. Click on Copy Token. Once copied you need to paste that token in firebase console and test push notifications.
 
-This project is a starting point for a Flutter application.
+App play
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/44860615/193408317-8accee97-343e-417d-a8fe-e11e4afe73ff.gif)
 
-A few resources to get you started if this is your first Flutter project:
+Here are screenshots application 
+![registration](https://user-images.githubusercontent.com/44860615/193408227-50833bb9-77c9-4e31-bafe-d32cbc836c57.jpeg)
+![login](https://user-images.githubusercontent.com/44860615/193408228-ee2605ae-884e-4d66-a34b-e757585af1e8.jpeg)
+![google sign in](https://user-images.githubusercontent.com/44860615/193408229-05df6e3d-d0f2-4ffc-a071-7a74bdcd724c.jpeg)
+![home](https://user-images.githubusercontent.com/44860615/193408231-6721b5ae-638f-4a42-9d84-52e4d2a4fb6c.jpeg)
+![side drawer](https://user-images.githubusercontent.com/44860615/193408241-917b3433-2436-467b-b59f-609a78683021.jpeg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-
-Here are screenshots of login & signup screen
-![WhatsApp Image 2022-04-12 at 2 18 03 AM](https://user-images.githubusercontent.com/44860615/162835464-ea81e51f-16d0-4f81-b170-97c6c1fc8219.jpeg)
-![WhatsApp Image 2022-04-12 at 2 18 02 AM](https://user-images.githubusercontent.com/44860615/162835478-22c99592-52d8-43d6-94ba-75a5edc4f721.jpeg)
