@@ -2,6 +2,8 @@
 
 This project is developed on Flutter and Firebase
 
+I implemented BLOC Pattern for state management and clean code architecture
+
 I have integrated firebase Auth(Signup + Login) and Google Login in this project. In order to test notifications manually from firebase console, login into application. Open the side drawer. Click on Copy Token. Once copied you need to paste that token in firebase console and test push notifications.
 
 App play
